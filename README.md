@@ -7,8 +7,6 @@
 2. [PI](#pi)
 3. [Strassen algorithm](#strassen)
 4. [Matrix multiplication](#matrix)
-5. [Sum Pthread](#sum_p)
-6. [Round trip Pthread](#round_p)
 
 <a name="compile"></a>
 ## 0. Compile
@@ -58,7 +56,7 @@ The second value 4 is amount of threads
 
 
 <a name="strassen"></a>
-## 4. Matrix multiplication using Strassen algorithm
+## 3. Matrix multiplication using Strassen algorithm
 There is posibility to enter amount of threads
 ### Start Strassen algorithm:
 ```console
@@ -81,7 +79,7 @@ The second value 4 is amount of threads
 
 
 <a name="matrix"></a>
-## 5. Matrix multiplication AVX, SSE
+## 4. Matrix multiplication AVX, SSE
 There are simple multiplication, AVX and SSE optimizations
 ### Start simple matrix multiplication:
 ```console
