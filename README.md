@@ -1,4 +1,4 @@
-# Introduction tasks for MPI and Pthread
+# OPENMP
 > sorry for my English
 
 # Content
